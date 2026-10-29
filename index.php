@@ -318,5 +318,14 @@ document.querySelectorAll(".fecha-tarea, .form-fecha-nueva").forEach((formulario
     });
 });
 </script>
+    <footer>
+  <p>&copy; 2026 Mi Sitio Web. Todos los derechos reservados.</p>
+  <ul>
+    <li><a href="#inicio">Inicio</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#privacidad">Política de Privacidad</a></li>
+  </ul>
+</footer>
+
 </body>
 </html>
